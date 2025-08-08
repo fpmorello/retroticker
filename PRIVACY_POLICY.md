@@ -37,5 +37,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 chochiinc@gmail.com
 
----
-**Disclaimer:** This is a template and not legal advice. You should consult with a legal professional to ensure compliance with all applicable laws and regulations.
+
